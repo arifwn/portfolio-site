@@ -1,0 +1,10 @@
+/* the humans responsible & colophon */
+/* humanstxt.org */
+
+
+/* TEAM */
+  Sainsmograf: Arif Widi Nugroho
+  Site: http://www.sainsmograf.com
+  Twitter: @arifwn
+  Location: Bandung, Indonesia
+  
