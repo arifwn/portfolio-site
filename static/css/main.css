@@ -824,3 +824,4 @@ a.label:hover,a.badge:hover{color:#ffffff;text-decoration:none;cursor:pointer;}
 .show{display:block;}
 .invisible{visibility:hidden;}
 .affix{position:fixed;}
+.profile-pic{width:36px;height:36px;margin:2px 10px 0 0;padding:0;overflow:hidden;-webkit-border-radius:3px;-moz-border-radius:3px;border-radius:3px;-webkit-box-shadow:inset 0 0 5px rgba(0, 0, 0, 0.5);-moz-box-shadow:inset 0 0 5px rgba(0, 0, 0, 0.5);box-shadow:inset 0 0 5px rgba(0, 0, 0, 0.5);background-color:white;}.profile-pic img{display:block;margin:0;padding:0;cursor:pointer;}
